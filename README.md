@@ -9,9 +9,8 @@
     <br> 
 </p>
 
-<p align="center"> <span style="color:red">Important: </span> Not relevant now, because Here Wallet's missions has been closed/ended and anti-automation system has been updated.
-    <br> 
-</p>
+> [!CAUTION]
+> Not relevant now, because Here Wallet's missions have been closed/ended and automation protection system has been updated.
 
 ## 📝 Table of Contents
 
