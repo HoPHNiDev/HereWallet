@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Not relevant now, because Here Wallet's missions have been closed/ended and automation protection system has been updated.
+
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://tgapp.herewallet.app/images/Dragon_intro.png" alt="Project logo"></a>
@@ -8,9 +11,6 @@
 <p align="center"> Here Wallet automation Script using Selenium
     <br> 
 </p>
-
-> [!CAUTION]
-> Not relevant now, because Here Wallet's missions have been closed/ended and automation protection system has been updated.
 
 ## 📝 Table of Contents
 
